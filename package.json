@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "webpack": "^4.15.1",
-    "webpack-command": "^0.4.1"
+    "webpack-command": "^0.4.1",
+    "webpack-serve": "^2.0.2"
   }
 }
